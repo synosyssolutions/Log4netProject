@@ -1,0 +1,10 @@
+D:\Projects\.Net WPF Project\Log4netProject\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Projects\.Net WPF Project\Log4netProject\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Projects\.Net WPF Project\Log4netProject\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Projects\.Net WPF Project\Log4netProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+D:\Projects\.Net WPF Project\Log4netProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Projects\.Net WPF Project\Log4netProject\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Projects\.Net WPF Project\Log4netProject\ConsoleUI\obj\Debug\ConsoleUI.pdb
+D:\Projects\.Net WPF Project\Log4netProject\ConsoleUI\bin\Debug\log4net.dll
+D:\Projects\.Net WPF Project\Log4netProject\ConsoleUI\bin\Debug\log4net.xml
+D:\Projects\.Net WPF Project\Log4netProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
